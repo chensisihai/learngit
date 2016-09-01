@@ -5,4 +5,5 @@ git tracks changes of files.
 test github.
 creating a new branch is quick and simple.
 merge test.
-creating a new branch is quick & simple.
+Creating a new branch is quick and dimple
+
