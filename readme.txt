@@ -4,7 +4,7 @@ git has a mutable index called stage.
 git tracks changes of files.
 test github.
 creating a new branch is quick and simple.
-merge test.
+merge test issue1.
 Creating a new branch is quick and dimple
 
 no-off
